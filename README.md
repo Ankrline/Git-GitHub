@@ -1,6 +1,9 @@
 ![Fundos branco, escrito em preto Git e GitHub com a logo de cada](https://user-images.githubusercontent.com/71984131/187093007-f8870f8a-9ede-480b-9b46-0bf6f5dc59dc.png)
 
 # Introdução
+ 
+> Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+
 Esse projeto tem como objetivo entender o Git e GitHub e reforçar o conhecimento adquirido pela plataforma DIO e conhecimentos adquiridos por fora. Os usuários poderão utilizar os arquivos disponíveis para se lembrar de algumas funcionalidades do Git e GitHub. 
 
 ## GIT
