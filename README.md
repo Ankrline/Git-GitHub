@@ -1,6 +1,6 @@
 ![Fundos branco, escrito em preto Git e GitHub com a logo de cada](https://user-images.githubusercontent.com/71984131/187093007-f8870f8a-9ede-480b-9b46-0bf6f5dc59dc.png)
 
-# Introduction
+# Introdução
 Esse projeto tem como objetivo entender o Git e GitHub e reforçar o conhecimento adquirido pela plataforma DIO e conhecimentos adquiridos por fora. Os usuários poderão utilizar os arquivos disponíveis para se lembrar de algumas funcionalidades do Git e GitHub. 
 
 ## GIT
@@ -17,7 +17,6 @@ O link que citei é para o básico mas caso queira ver mais comandos e possiblid
 
 GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
 
-## Dicas de como usar o GitHub
 
 ## Contribuições
 Este projeto feito por [mim](https://github.com/Ankrline) existe graças ao Desafio DIO "Primeiro Repositorio", sinta-se a vontade para realizar adicionar mais informações ou realizar correções. 
