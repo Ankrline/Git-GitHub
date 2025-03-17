@@ -9,15 +9,17 @@ Este projeto tem como objetivo entender o **Git** e **GitHub**, reforçando o co
 ---
 
 ## 📂 Estrutura do Repositório
-```
-/primeiro-repositorio-github
-├── /docs           # Tutoriais, anotações e resumos
-├── /exemplos       # Exemplos práticos de uso do Git
-├── /scripts        # Scripts para automatizar tarefas do Git
-├── .gitignore      # Arquivos que devem ser ignorados pelo Git
-├── LICENSE         # Definição dos direitos de uso do projeto
-└── README.md       # Documentação principal
-```
+├── `/docs` →   Tutoriais, anotações e resumos
+
+├── `/exemplos` →  Exemplos práticos de uso do Git
+
+├── `/scripts` →  Scripts para automatizar tarefas do Git
+
+├── `.gitignore` →   Arquivos que devem ser ignorados pelo Git
+
+├── `LICENSE` →   Definição dos direitos de uso do projeto
+
+└── `README.md` →  Documentação principal
 
 ---
 
